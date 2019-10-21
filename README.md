@@ -1,2 +1,2 @@
 # Wave
-Wabe music
+Wave music
